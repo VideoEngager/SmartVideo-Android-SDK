@@ -17,7 +17,7 @@ Add the necessary artifact into your `build.gradle` file:
 ```
 dependencies {
     ....
-    implementation 'com.videoengager:smartvideo-sdk:1.0.0'
+    implementation 'com.videoengager:smartvideo-sdk:1.3.3'
 }
 ```
 
